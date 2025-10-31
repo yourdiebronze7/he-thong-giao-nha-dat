@@ -9,7 +9,7 @@ app.use(express.json());
 const PORT = process.env.PORT || 5000;
 
 app.get('/', (req, res) => {
-  res.send('Hệ thống giao dịch bất động sản đã khởi động!');
+  res.send('Hệ thống giao dịch bất động sản đã sẵn sàng!');
 });
 
 app.listen(PORT, () => {
