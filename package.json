@@ -18,5 +18,5 @@
     "concurrently": "^5.3.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
