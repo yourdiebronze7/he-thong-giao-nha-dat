@@ -1,7 +1,7 @@
 {
   "name": "he-thong-giao-nha-dat",
   "version": "1.0.0",
-  "description": "Hệ thống giao dịch bất động sản",
+  "description": "Hệ thống giao dịch bất động sản - A real estate transaction system",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
